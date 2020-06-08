@@ -17,7 +17,6 @@
 			<input type="text" name="pass" placeholder="password"></br></br>
 		    <button style="background-color:#FF0000;color: white;"type="submit" > <b>Login </b>
             </button> 
-			</form>
 			<form action="signup.php" method="post">
 			<h2>Dont have an account sign up here </h2>
 			<lable> <b>username:</b> </lable>
@@ -29,12 +28,8 @@
 		    <input type="text" name="Password" placeholder="Password"><br> <br>
             <button style="background-color:#FF0000;color: white;"type="submit"> <b> Signup</b>
              </button>
-
-
-
-			</form>
-		</div>
-
+                </form>
+	   </div>
 	</div>
 </body>
 </html>
